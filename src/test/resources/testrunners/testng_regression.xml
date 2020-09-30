@@ -18,7 +18,7 @@
 			<class name="com.qa.hubspot.tests.LoginPageTest" />
 		</classes>
 	</test>
-	 <test name = "Home Page Test"> <parameter name="browser" value="safari" 
+	 <test name = "Home Page Test"> <parameter name="browser" value="chrome" 
 		/> <classes> <class name = "com.qa.hubspot.tests.HomePageTest" /> </classes> 
 		</test> 
 

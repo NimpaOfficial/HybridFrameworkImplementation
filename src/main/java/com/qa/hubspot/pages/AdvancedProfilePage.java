@@ -5,6 +5,7 @@ public class AdvancedProfilePage {
 	public AdvancedProfilePage(){
 		System.out.println("Add advanced profile page");
 		System.out.println("Add advanced profile page added from remote");
+		System.out.println("Testing ngRok Configuration");
 	}
 
 }
